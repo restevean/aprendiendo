@@ -8,3 +8,7 @@ print('caracola')
 # tercer comentario
 
 # esta es nueva
+
+# Comentario 7
+# Comentario 8
+

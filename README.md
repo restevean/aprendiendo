@@ -1,3 +1,3 @@
 # aprendiendo
 
-esto es un test
+esto es una prueba
